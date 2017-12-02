@@ -1,0 +1,70 @@
+{
+  "issues": [{
+    "id": 1000,
+    "project": {
+      "id": 58,
+      "name": "プロジェクト3"
+    },
+    "tracker": {
+      "id": 6,
+      "name": "タスク"
+    },
+    "status": {
+      "id": 1,
+      "name": "新規"
+    },
+    "priority": {
+      "id": 4,
+      "name": "通常"
+    },
+    "author": {
+      "id": 168,
+      "name": "user1"
+    },
+    "assigned_to": {
+      "id": 22,
+      "name": "user2"
+    },
+    "subject": "xxxxする",
+    "description": "xxxx",
+    "start_date": "2017-09-28",
+    "done_ratio": 0,
+    "created_on": "2017-09-28T06:20:43Z",
+    "updated_on": "2017-09-28T06:20:43Z"
+  }, {
+    "id": 2000,
+    "project": {
+      "id": 58,
+      "name": "プロジェクト3"
+    },
+    "tracker": {
+      "id": 1,
+      "name": "不具合"
+    },
+    "status": {
+      "id": 1,
+      "name": "新規"
+    },
+    "priority": {
+      "id": 5,
+      "name": "高め"
+    },
+    "author": {
+      "id": 168,
+      "name": "user1"
+    },
+    "assigned_to": {
+      "id": 22,
+      "name": "user2"
+    },
+    "subject": "Bug: xxxx",
+    "description": "",
+    "start_date": "2017-09-15",
+    "done_ratio": 0,
+    "created_on": "2017-09-15T10:06:00Z",
+    "updated_on": "2017-09-28T02:30:21Z"
+  }],
+  "total_count": 2,
+  "offset": 0,
+  "limit": 100
+}
