@@ -6,7 +6,7 @@
 # <bitbar.author>rochefort</bitbar.author>
 # <bitbar.author.github>rochefort</bitbar.author.github>
 # <bitbar.desc>Show my tickets of multiple Redmine</bitbar.desc>
-# <bitbar.image>https://raw.githubusercontent.com/hikouki/bitbar-redmine/master/preview.png</bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/rochefort/bitbar-multiple-redmine-issues/master/preview.png</bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/rochefort</bitbar.abouturl>
 
